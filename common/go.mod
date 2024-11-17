@@ -1,0 +1,3 @@
+module github.com/andrewidianto/common
+
+go 1.23.2
